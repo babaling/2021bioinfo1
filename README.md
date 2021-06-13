@@ -15,5 +15,10 @@ Density of ribosome footprints near start and stop codons. All reads aligned to 
 
 
 
+### Mission 3
+Mutations at LIN28A Binding Sites
+
+LIN28A CLIP tags aligned to the Mirlet7g, Mirlet7d, and Mirlet7f-1 locus
+
 _Jihye Shin_
 
